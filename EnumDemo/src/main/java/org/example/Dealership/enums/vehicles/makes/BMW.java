@@ -1,6 +1,5 @@
 package org.example.Dealership.enums.vehicles.makes;
 
-import org.example.Dealership.Vehicle;
 import org.example.Dealership.enums.vehicles.Manufacturer;
 
 public enum BMW implements IMakes {
