@@ -1,0 +1,40 @@
+Invoice Details: 
+		Customer Details: 
+			First Name: John
+			Last Name: Doe
+			Phone Number: 123-456-7890
+			Email: hey@example.com
+			Address: 1234 Main St
+			City: Louisville
+			State: KENTUCKY (KY)
+			Zip Code: 40202
+		Customer Notes: 
+			Customer claims car is making a weird noise when turning left.
+			Customer is interested in trading in their current vehicle.
+			Customer is looking to purchase a new vehicle within the next 3 months.
+			Customer refuses to purchase a vehicle with a sunroof.
+			Customer thinks Jimmy is the worst mechanic in the world.
+			Customer appears to like James as a mechanic.
+
+		Vehicle Details: 
+			Make: BMW
+			Model: X1
+			Year: 2021
+			Mileage: 23874
+			VIN: AABB12D8DW
+
+Services: 
+	Oil Change (Flat Rate): $50.29 - Quantity: 1.0 - Cost: $50.29
+	Tire Rotation (Flat Rate): $23.99 - Quantity: 1.0 - Cost: $23.99
+	Brake Repair (Per Hour): $89.99 - Quantity: 1.25 - Cost: $112.49
+	Body Repair (Per Hour): $120.99 - Quantity: 2.5 - Cost: $302.47
+	Inspection (Flat Rate): $15.99 - Quantity: 1.0 - Cost: $15.99
+Total Cost: $505.23
+Comments: 
+	Oil pan drain plug had to be replaced due to cross threading. (Jimmy strikes again)
+	Customer requested to have tires rotated due to uneven wear.
+	Customer requested brake pads to be replaced due to squeaking. They appeared to be in good shape but we want his money.
+	Customer requested body work to be done on the rear bumper due to a minor accident.
+	Customer requested a full inspection of the vehicle to ensure it is in good condition.
+	Customer was very satisfied with the service provided.
+	Customer indicated Jimmy should be fired.
